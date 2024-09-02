@@ -1,0 +1,12 @@
+com\spring\datajpa\gitRepositoryRetriever\jpaRepository\GitRepoDetailsRepository.class
+com\spring\datajpa\gitRepositoryRetriever\service\GitHubRepoService.class
+com\spring\datajpa\gitRepositoryRetriever\service\impl\GitHubServiceImpl.class
+com\spring\datajpa\gitRepositoryRetriever\service\GitRepoDetailsService.class
+com\spring\datajpa\gitRepositoryRetriever\entity\GitRepositoryDetails.class
+com\spring\datajpa\gitRepositoryRetriever\exceptionHandler\ErrorResponse.class
+com\spring\datajpa\gitRepositoryRetriever\service\impl\GitRepoDetailsServiceImpl.class
+com\spring\datajpa\gitRepositoryRetriever\config\GitRepoConfig.class
+com\spring\datajpa\gitRepositoryRetriever\controller\GitRepoController.class
+com\spring\datajpa\gitRepositoryRetriever\util\Constants.class
+com\spring\datajpa\gitRepositoryRetriever\GitRepositoryRetrieverApplication.class
+com\spring\datajpa\gitRepositoryRetriever\entity\GitRepositoryDetailsResponse.class

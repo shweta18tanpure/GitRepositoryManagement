@@ -1,0 +1,12 @@
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\service\GitRepoDetailsService.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\exceptionHandler\ErrorResponse.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\service\impl\GitRepoDetailsServiceImpl.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\util\Constants.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\service\impl\GitHubServiceImpl.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\service\GitHubRepoService.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\entity\GitRepositoryDetails.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\jpaRepository\GitRepoDetailsRepository.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\config\GitRepoConfig.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\controller\GitRepoController.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\entity\GitRepositoryDetailsResponse.java
+S:\GitRepositoryManagement\src\main\java\com\spring\datajpa\gitRepositoryRetriever\GitRepositoryRetrieverApplication.java
